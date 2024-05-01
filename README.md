@@ -12,7 +12,7 @@ I'm a passionate full-stack developer with a love for creating engaging web expe
 
 ## Let's Connect
 📫 Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/bar-abulher-20b22626b/) to discuss collaborations, opportunities, or just to say hi!
-
+<hr/>
 
 
 ### 🧰 Languages and Tools
@@ -31,8 +31,7 @@ I'm a passionate full-stack developer with a love for creating engaging web expe
 <hr/>
 
 
-<hr/>
-<hr/>
+
 
 ### 📊 Stats
 
