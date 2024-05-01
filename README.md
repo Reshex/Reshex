@@ -33,4 +33,4 @@ I'm a passionate full-stack developer with a love for creating engaging web expe
 
 ### 📊 Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=midnight-purple&count_private=true&include_all_commits=true&hide=contribs,issues)
+![Reshexe's GitHub stats](https://github-readme-stats.vercel.app/api?username=Reshex&show_icons=true&theme=midnight-purple)
