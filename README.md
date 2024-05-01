@@ -14,6 +14,7 @@ I'm a passionate full-stack developer with a love for creating engaging web expe
 📫 Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/bar-abulher-20b22626b/) to discuss collaborations, opportunities, or just to say hi!
 
 
+
 ### 🧰 Languages and Tools
 
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
@@ -28,6 +29,8 @@ I'm a passionate full-stack developer with a love for creating engaging web expe
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
 
+
+
 ### 📊 Stats
 
-![Reshexe's GitHub stats](https://github-readme-stats.vercel.app/api?username=Reshex&show_icons=true&theme=gruvbox)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=midnight-purple&count_private=true&include_all_commits=true&hide=contribs,issues)
