@@ -11,7 +11,7 @@ I'm a passionate full-stack developer with a love for creating engaging web expe
 ⚡ **Other Interests:** When I am not coding, I'm a passionate gymnast who loves staying active and healthy. I'm also an avid gamer, always up for a challenge in the virtual world.
 
 My Portfolio
-https://github.com/Reshex/My-Portfolio
+[https://github.com/Reshex/My-Portfolio](https://reshex.github.io/My-Portfolio/projectsAndSkills)
 
 ## Let's Connect
 📫 Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/bar-abulher-20b22626b/) to discuss collaborations, opportunities, or just to say hi!
